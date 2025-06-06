@@ -20,3 +20,13 @@ document.addEventListener("click", function(event) {
 });
 </script>
 ```
+
+Install backend
+```
+npm install express body-parser puppeteer
+```
+
+run server  ```node clickcollector.js```
+goto ```http://localhost:3000/heatmap```
+
+
