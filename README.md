@@ -1,6 +1,6 @@
 add this code to your web site
 
-´´´
+```
 <script>
 document.addEventListener("click", function(event) {
     const clickData = {
@@ -19,4 +19,4 @@ document.addEventListener("click", function(event) {
     });
 });
 </script>
-´´´
+```
